@@ -80,6 +80,7 @@ header {
   top:0;
   left:0;
   background:white;
+  z-index:1;
 }
 
 .wrapper{ width:960px;margin:auto;background:#eee;}
