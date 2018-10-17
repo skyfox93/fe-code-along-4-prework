@@ -76,4 +76,5 @@ figcaption {
 .col-1{float:left;width:32%;}
 .col-2{float:left;width:66%}
 .col-3{background: #ccc;}
-[class*=".col"]
+[class*=".col"]{margin-left: 2%;}
+.clearfix:
