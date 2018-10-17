@@ -72,7 +72,7 @@ figcaption {
 }
 /* layout*/
 img,video{width:100%;}
-*{box-sizing:border-box:}
+*{box-sizing:border-box;}
 
 .wrapper{ width:960px;margin:auto;background:#eee;}
 .col-1{float:left;width:32%;background: #ccc;}
