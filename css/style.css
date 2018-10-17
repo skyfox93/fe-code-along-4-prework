@@ -76,7 +76,7 @@ figcaption {
 .col-1{float:left;width:32%;background: #ccc;}
 .col-2{float:left;width:65%;background: #ccc;}
 .col-3{background: #ccc;}
-[class*=".col"]{margin-left: 2%;}
+[class*=".col-"]{margin-left: 2%;}
 .clearfix:after {
   content: ".";
   display: block;
